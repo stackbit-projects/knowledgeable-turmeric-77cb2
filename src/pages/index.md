@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    align: left
+    align: right
     image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
