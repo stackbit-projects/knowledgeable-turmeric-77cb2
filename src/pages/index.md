@@ -7,7 +7,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
-      - label: See More
+      - label: Learn More
         url: /features
         style: primary
       - label: Contact Us
